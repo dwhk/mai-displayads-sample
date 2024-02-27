@@ -1,0 +1,6 @@
+framework module DisplayAdsManagerSDK {
+  umbrella header "DisplayAdsManagerSDK.h"
+  export *
+
+  module * { export * }
+}
